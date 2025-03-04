@@ -1,4 +1,4 @@
-# GitHub Copilot Workspace VS Code extension
+## GitHub Copilot Workspace VS Code extension
 
 This Copilot Workspace VS Code extension allows you to use GitHub Copilot Workspace from the comfort of VS Code. Continue an existing session and edit and debug the proposed changes before creating a PR. Whether you use natural language to revise the plan or implementation, or edit files directly, you can use the full power of VS Code and its extension ecosystem all while syncing your local edits to GitHub Copilot Workspace on the web automatically (any saved file change will be visible online within few seconds).
 
