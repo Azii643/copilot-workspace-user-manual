@@ -15,12 +15,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Azii643/copilot-workspace-user-manual/issues"
   },
   "homepage": "https://github.com/Azii643/copilot-workspace-user-manual#readme",
   "dependencies": {
+    "@vercel/speed-insights": "^2.0.0",
     "gray-matter": "^4.0.3",
     "marked": "^18.0.5",
     "next": "^16.2.10",
